@@ -1,5 +1,5 @@
 # Wrist-Rehabilitation-device
-Software and hardware for the wrist joint rehabilitation
-changes
-
-+ 1 change
+Firmware for the wrist joint rehabilitation
++ Using arduino pro micro
++ Encoder 400 pulse per revolution
++ Spring displacement measured for a potentiometer
